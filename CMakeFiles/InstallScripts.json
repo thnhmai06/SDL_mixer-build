@@ -1,0 +1,18 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/ogg/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/opus/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/opusfile/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libgme/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libgme/gme/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libgme/player/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libgme/demo/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libxmp/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libxmp/examples/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/libxmp/docs/cmake_install.cmake",
+		"D:/Development/Code/cpp/Repositories/dm-cmake/SDL_mixer-build/external/wavpack/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
